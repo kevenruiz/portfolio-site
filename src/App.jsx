@@ -2,8 +2,8 @@
 import './App.css';
 import { Component } from 'react';
 import React from 'react';
-import Header from '../src/containers/Header';
-import PoemList from '../src/PoemList';
+import Header from './components/containers/Header';
+import PoemList from './components/containers/PoemList';
 import PoemForm from '../src/PoemForm';
 import PoemDetail from '../src/PoemDetail';
 import {

@@ -21,3 +21,5 @@ Poem.propType = {
   time: PropTypes.string
 
 };
+
+export default Poem;
